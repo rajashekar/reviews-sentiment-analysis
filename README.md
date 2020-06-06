@@ -1,0 +1,2 @@
+# Deploying a Sentiment Analysis Model
+The purpose of this project is to construct a recurrent neural network for the purpose of determining the sentiment of a movie review using the IMDB data set. Amazon's SageMaker service was used to create this model. Using Lambda & API Gateway a webapp was created which will take review and will output whether the review is postive or negative.
